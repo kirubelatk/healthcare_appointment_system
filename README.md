@@ -30,5 +30,5 @@ The system consists of three core microservices:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Cherub21/healthcare_appointment_system.git
+   cd healthcare_appointment_system
