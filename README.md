@@ -32,3 +32,9 @@ The system consists of three core microservices:
    ```bash
    git clone https://github.com/Cherub21/healthcare_appointment_system.git
    cd healthcare_appointment_system
+
+## Contributions
+Collaborators working on this project can list their names here:
+
+Kirubel Dagnachew
+Kirubel Ateka
